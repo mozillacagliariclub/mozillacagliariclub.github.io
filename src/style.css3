@@ -1,6 +1,6 @@
 @font-face {
    font-family: ZillaSlab;
-   src: url(ZillaSlab-SemiBoldItalic.woff);
+   src: url(https://github.com/mozillacagliariclub/mozillacagliariclub.github.io/blob/master/src/ZillaSlab-SemiBoldItalic.woff);
 }
 
 
