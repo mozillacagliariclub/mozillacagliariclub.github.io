@@ -1,0 +1,18 @@
+@font-face {
+   font-family: ZillaSlab;
+   src: url(ZillaSlab-SemiBoldItalic.woff);
+}
+
+
+p,h1,h2,h3,h4,h5,h6,div {
+   font-family: ZillaSlab;
+}
+
+h1{
+	font-size: 70px;
+}
+
+h2{
+	font-size: 40px;
+}
+
